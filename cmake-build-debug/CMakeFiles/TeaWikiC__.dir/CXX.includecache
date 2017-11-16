@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kacper/CLionProjects/TeaWikiC++/main.cpp
+iostream
+-
+string
+-
+vector
+-
+bitset
+-
+sstream
+-
+

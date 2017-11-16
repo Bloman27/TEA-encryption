@@ -1,0 +1,3 @@
+C:/Users/Kacper/CLionProjects/TeaWikiC++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kacper/CLionProjects/TeaWikiC++/cmake-build-debug/CMakeFiles/TeaWikiC__.dir
+C:/Users/Kacper/CLionProjects/TeaWikiC++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

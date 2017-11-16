@@ -1,0 +1,3 @@
+"E:\Studia\tools\CLion 2017.2.1\bin\cmake\bin\cmake.exe" -E remove -f CMakeFiles\TeaWikiC__.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\TeaWikiC__.dir/objects.a @CMakeFiles\TeaWikiC__.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\TeaWikiC__.dir/objects.a -Wl,--no-whole-archive  -o TeaWikiC__.exe -Wl,--out-implib,libTeaWikiC__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TeaWikiC__.dir\linklibs.rsp
